@@ -57,10 +57,60 @@ ___________________________________________________________
 
 ---
 
-4.1
+4.1 
+### Código de acionamento 
 
+```
 
+int boia = 7;
+int sensorNivel = A0;
+int rele1 = 13;
+int rele2 = 10;
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(boia,INPUT_PULLUP);
+  pinMode(sensorNivel,INPUT);
+  pinMode(rele1,OUTPUT);
+  pinMode(rele2, OUTPUT);
+}
+
+void loop() {
+  // Leitura dos sensores
+  int valorBoia = digitalRead(boia);
+  
+  // Simulação do nível da água (400ml)
+  int valorSensor = analogRead(sensorNivel);
+  
+  // Se a boia acionar, rele1 = HIGH
+  if(valorBoia == HIGH){ 
+    digitalWrite(rele1,LOW);
+    
+  } 
+  else{
+    delay(10000);
+    digitalWrite(rele1,HIGH);
+  }
+
+  if(valorSensor > 277 || valorSensor >= 550){ 
+    digitalWrite(rele2,LOW);
+    
+  } 
+  else{
+    delay(10000);
+    digitalWrite(rele2,HIGH);
+  } ''''
+
+ // 0 a 553
+ 
+  delay(100);
+}
+
+````
+
+---
 5.1 
+### Conclusão:
 
   
  
