@@ -46,7 +46,7 @@ ___________________________________________________________
 
 3.1
 ### Montagem no simulador Tinkercad para funcionamento dos sensores:
- ![](../Downloads/montagem.jpeg)                     
+ ![](./montagem.jpeg)                     
  
  
 ### Organização dos componentes dentro da caixa de PVC:
