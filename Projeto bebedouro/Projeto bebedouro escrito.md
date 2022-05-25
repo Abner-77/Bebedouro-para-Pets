@@ -50,10 +50,10 @@ ___________________________________________________________
  
  
 ### Organização dos componentes dentro da caixa de PVC:
-![](../Downloads/caixaa.jpeg)                       
+![](./caixaa.jpeg)                       
 
 ### Estrutura:
-![](../Downloads/estrutura.jpeg)                         
+![](./estrutura.jpeg)                         
 
 ---
 
