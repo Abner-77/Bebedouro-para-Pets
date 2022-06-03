@@ -1,7 +1,7 @@
 # Bebedouro para pets automatizado
 
 ## Sistemas embarcados - 1º semestre - 2022
-___________________________________________________________
+---
 
 ### Integrantes do grupo: 
 
