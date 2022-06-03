@@ -90,8 +90,6 @@ Serial.println(rele1);
 Serial.print("Rele 2: ");
 Serial.println(rele2);
 
- 
-
 // Controle do reabastecimento do reservatório
 if(valorBoia == HIGH){ 
   digitalWrite(rele1,LOW);
