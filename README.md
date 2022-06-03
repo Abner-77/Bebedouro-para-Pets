@@ -10,8 +10,8 @@
 - Erick Gabriel
 - Larissa Michelin
 - Luiz Henrique
-
 ---
+
 ## Sumário
 
 1.	Descrição do projeto
@@ -25,7 +25,7 @@
 
   A ideia do projeto se originou devido a dificuldade de suprir uma das necessidades básicas dos nossos pets quando estivermos ausentes, com um dispositivo de abastecimento de água automático conseguimos resolver essa questão que se da devido ao consumo imprevisível durante o dia. Sendo um dispositivo compacto e de simples manuseio, pode ser alocada em diversos lugares da residência e habitats externos, tornando-o útil para diversas espécies de animais domésticos ou de pequeno porte.  Por meio dessa tecnologia, visamos trazer praticidade e bem-estar tanto na vida dos animais quanto aos seus donos.
 
-   ---
+---
 
  ## 2. Lista dos materiais
  
@@ -41,7 +41,6 @@
   - Mangueira de silicone;
   - Jumpers;
   - Caixa organizadora de PVC;
-
 ---
 
 ## 3. Montagem
@@ -114,9 +113,9 @@ delay(100);
 }
 
 ```
-
 ---
-## 5. Conclusão:
+
+## 5. Conclusão
 
   
  
