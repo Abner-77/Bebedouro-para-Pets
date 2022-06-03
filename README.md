@@ -46,7 +46,7 @@
 
 ## 3. Montagem
 #### Montagem no simulador Tinkercad:
- ![](/Imagens/montagem.jpeg)                     
+ ![](/Imagens/montagem.png)                     
  
  
 #### Organização dos componentes dentro da caixa de PVC:
