@@ -117,8 +117,6 @@ delay(100);
 
 ## 5. Conclusão
 
-  
- 
  O arduino controla o funcionamento do rele como esperado, assim a válvula libera e bloqueia a passagem da água com o auxílio dos sensores para que essa ação seja realizada no momento certo, abastecendo o recipiente do cachorro. Como o dispositivo é automatizado, deixamos seu depósito de água ligado diretamente á uma torneira para que não se faça necessária a ação de abastecimento.
 
  O projeto atendeu a nossa expectativas, sendo um dispositivo de fato funcional e prático, podendo ser replicado por pessoas com rotinas agitadas e alocado em diversos locais da residência.
